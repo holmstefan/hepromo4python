@@ -3,6 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="lib/py4j-java_0.10.7.bnd-LoVopg.jar" sourcepath="lib/py4j-java.source_0.10.7.bnd-LoVopg.jar"/>
-	<classpathentry kind="lib" path="lib/hepromo-api-v0.4.jar" sourcepath="/HeProMo/src"/>
+	<classpathentry kind="lib" path="lib/hepromo-api-v2.5.0.jar" sourcepath="/HeProMo/src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
